@@ -139,6 +139,7 @@ nav .menu-btn,
     display: flex;
     margin-top: 40px;
     margin-left: 40%;
+
 }
 .header-btn{
 	width:160px;
@@ -151,6 +152,7 @@ nav .menu-btn,
     box-shadow: 5px 10px 30px rgba(255, 2, 2, 0.336);
     border-radius: 5px;
 	color:#ffffff;
+    
 }
 .header-btn:hover{
 	background-color: transparent;
@@ -283,6 +285,7 @@ nav .menu-btn,
     display: flex;
     margin-top: 40px;
     margin-left: 35%;
+
 }
 .pr-btn{
 	width:160px;
