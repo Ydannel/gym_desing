@@ -8,10 +8,10 @@ const Features = () => {
         <div id='features'>
             <h1>FEATURES</h1>
             <div className="a-container">
-                <FeatureBox image={image1} title='a'/>
-                <FeatureBox image={image2} title='a'/>
-                <FeatureBox image={image3} title='a'/>
-                <FeatureBox image={image4} title='a'/>
+                <FeatureBox image={image1} title='Exercise'/>
+                <FeatureBox image={image2} title='Dedications'/>
+                <FeatureBox image={image3} title='You win'/>
+                <FeatureBox image={image4} title='Your healt'/>
             </div>
         </div>
      );
